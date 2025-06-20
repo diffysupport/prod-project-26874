@@ -17,6 +17,7 @@ basic:
         - /support-us/ways-donate
         - /blog
         - /blog/your-stories/running-london-marathon-lung-condition-i-want-prove-you-can-do-anything
+        - /conditions/asthma
     monitoring:
         days: {  }
         type: ''
