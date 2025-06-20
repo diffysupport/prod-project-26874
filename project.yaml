@@ -14,6 +14,7 @@ basic:
         - /symptoms-tests-treatments
         - /how-your-lungs-work
         - /helpline
+        - /support-us/ways-donate
     monitoring:
         days: {  }
         type: ''
